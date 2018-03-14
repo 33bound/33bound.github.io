@@ -24,9 +24,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-B_Standard_Black:before {
-  content: "\e900";
-}
 .icon-facebook:before {
   content: "\ea90";
 }
@@ -42,6 +39,6 @@
 .icon-vimeo:before {
   content: "\eaa0";
 }
-
-
-
+.icon-tumblr:before {
+  content: "\eab9";
+}
