@@ -5,7 +5,7 @@
 html,
 body {
   height: 100%;
-  background: linear-gradient(270deg, #15332b, #3c4945, #0b1210);
+  background: linear-gradient(270deg, #cb8412, #d19432, #ecb55c);
   background-size: 600% 600%;
   -webkit-animation: AnimationName 30s ease infinite;
   -moz-animation: AnimationName 30s ease infinite;
@@ -39,7 +39,7 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 
-  color: orange !important;
+  color: #1c1e1d !important;
 }
 
 .cover-container {
@@ -110,25 +110,17 @@ body {
 }
 
 .inner {
-  font-size: 6vh;
+  font-size: 5vh;
   margin-bottom: 15px;
   padding-top: 10%;
 }
 .inner > a {
   cursor: pointer;
-  color: orange;
+  color: #1c1e1d;
 }
 .inner > a:hover {
-  color: lightgray;
+  color: darkslategray;
   text-decoration: none;  
-}
-
-
-.icon-B_Standard_Black{
-  font-size:4000vw;
-}
-.icon-B_Standard_Black:hover {
-  color: lightgray;
 }
 
 svg { 
@@ -137,6 +129,6 @@ svg {
   left: 0;
   height: 90%;
   width: 100%;
-  padding: 35px;
+  padding: 13vh;
   pointer-events: none;
 }
