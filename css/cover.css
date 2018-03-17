@@ -117,6 +117,7 @@ body {
 .inner > a {
   cursor: pointer;
   color: #1c1e1d;
+  margin: 5px;
 }
 .inner > a:hover {
   color: darkslategray;
